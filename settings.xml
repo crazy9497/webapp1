@@ -6,7 +6,7 @@
   		 <password>tomcat1</password>
   	 </server>
      <server>
-        <id>vijayvs-snapshots</id>
+        <id>santhusnapshots</id>
         <username>admin</username>
         <password>admin123</password>
      </server>
