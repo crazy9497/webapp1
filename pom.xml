@@ -15,7 +15,14 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
   <build>
     <finalName>webapp1</finalName>
   </build>
+<distributionManagement>
+  <snapshotRepository>
+    <id>santhusnapshots</id>
+    <url>http://104.196.18.135:8081/nexus/content/repositories/santhusnapshots</url>
+  </snapshotRepository>
+</distributionManagement>
 </project>
