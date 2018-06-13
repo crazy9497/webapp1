@@ -35,8 +35,8 @@
   </build>
   <distributionManagement>
   <snapshotRepository>
-    <id>vijayvs-snapshots</id>
-    <url>http://35.231.185.20:8081/nexus/content/repositories/vijayvs-snapshots</url>
+    <id>santhusnapshots</id>
+        <url>http://104.196.18.135:8081/nexus/content/repositories/santhusnapshots</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
